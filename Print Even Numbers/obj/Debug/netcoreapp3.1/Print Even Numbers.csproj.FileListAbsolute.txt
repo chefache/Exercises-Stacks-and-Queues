@@ -1,0 +1,10 @@
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.exe
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.deps.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.dev.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.pdb

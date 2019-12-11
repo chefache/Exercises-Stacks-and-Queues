@@ -1,0 +1,11 @@
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\stefa\OneDrive\Desktop\.NET OOP - Winter 2019\Stacks and Queues\Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
